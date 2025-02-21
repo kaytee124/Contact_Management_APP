@@ -1,0 +1,2 @@
+C:/contact_management_app/android/app/.cxx/RelWithDebInfo/1k144142/x86/CMakeFiles/edit_cache.dir
+C:/contact_management_app/android/app/.cxx/RelWithDebInfo/1k144142/x86/CMakeFiles/rebuild_cache.dir

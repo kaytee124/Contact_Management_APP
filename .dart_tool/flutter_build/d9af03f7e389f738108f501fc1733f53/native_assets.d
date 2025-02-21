@@ -1,0 +1,1 @@
+ C:\\Users\\ktpro\\OneDrive\\Desktop\\fourthyear\\Semester\ 2\\Mobile\ dev\\contact_management_app\\.dart_tool\\flutter_build\\d9af03f7e389f738108f501fc1733f53\\native_assets.yaml: 

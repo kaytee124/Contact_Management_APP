@@ -1,0 +1,602 @@
+{
+   "checksum": "7d915139157fc2c8bb766b4753bf4f41",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13383692873011296",
+            "date_last_used": "0",
+            "guid": "d67fbe8c-5833-42e2-9cd8-a8c1ce457f59",
+            "id": "57",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13383692873011074",
+            "date_last_used": "0",
+            "guid": "d62744d2-1399-43b8-aa1b-f49d361d8037",
+            "id": "56",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13383672332768361",
+            "date_last_used": "0",
+            "guid": "bba9026c-52a0-453c-9f3a-68b44a5d24df",
+            "id": "53",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13383672332767993",
+            "date_last_used": "0",
+            "guid": "f43fc4ed-3402-445f-b366-73c72a9ab894",
+            "id": "52",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13383668033097309",
+            "date_last_used": "0",
+            "guid": "bcbbbc30-f78c-40e4-9a81-928f98366ede",
+            "id": "49",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13383668033096431",
+            "date_last_used": "0",
+            "guid": "8c73aa4a-6464-4c24-bc93-87ed7d02afaa",
+            "id": "48",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13224611053278588",
+            "date_last_used": "13370532004721766",
+            "guid": "2ea63d7a-750c-4297-b938-ca94b287d22e",
+            "id": "10",
+            "name": "The Queen’s Commonwealth Essay Competition 2020- Win a London Trip",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youthop.com/competitions/the-queens-commonwealth-essay-competition-2020-win-a-trip-to-london?ref=browse_page",
+            "visit_count": 2
+         }, {
+            "date_added": "13222231033893667",
+            "date_last_used": "0",
+            "guid": "92561cd9-5e03-42c1-b8ff-293124357596",
+            "id": "11",
+            "name": "Hacking For Dummies Cheat Sheet - dummies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dummies.com/computers/computer-networking/network-security/hacking-for-dummies-cheat-sheet/",
+            "visit_count": 0
+         }, {
+            "date_added": "13222232112334840",
+            "date_last_used": "0",
+            "guid": "bc6dec47-bfae-4e41-9638-e8454217e370",
+            "id": "12",
+            "name": "CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://crackstation.net/",
+            "visit_count": 0
+         }, {
+            "date_added": "13222232126670621",
+            "date_last_used": "0",
+            "guid": "f8dc7278-c47e-4656-89a5-7721ef0f3172",
+            "id": "13",
+            "name": "Ethical Hacking Tutorials, Tips and Tricks | Free Tutorials, Tools, How to's",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hacking-tutorial.com/#sthash.RgPawkzx.dpbs",
+            "visit_count": 0
+         }, {
+            "date_added": "13347441914708897",
+            "date_last_used": "0",
+            "guid": "3407e322-0962-4c8a-8e3b-8f179d7febdf",
+            "id": "14",
+            "name": "Watch Ben 10 (2005) Full HD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://watchseries8.to/watch-series/ben-10-watch-37886/232513",
+            "visit_count": 0
+         }, {
+            "date_added": "13349326667829817",
+            "date_last_used": "0",
+            "guid": "e5fad0ac-041a-4d58-95cd-1ab0c29b9ae9",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Dry Day (2023) Full HD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://watchseries8.to/watch-movie/dry-day-watch-104152/1405174",
+            "visit_count": 0
+         }, {
+            "date_added": "13349330400867422",
+            "date_last_used": "0",
+            "guid": "8263fdf7-d24a-448d-8ade-ecd2cd1c4149",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Trevor Noah: Where Was I (2023) Full HD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://watchseries8.to/watch-movie/trevor-noah-where-was-i-watch-104074/1404838",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13356801354403822",
+               "date_last_used": "0",
+               "guid": "ddc6f16c-3a05-4873-a793-76e4e7ad6b37",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(57) Build a complete React Admin Dashboard App | ReactJS & CSS Only | React Project For Beginners - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UA8Sxk_mHb8",
+               "visit_count": 0
+            }, {
+               "date_added": "13356801372291065",
+               "date_last_used": "0",
+               "guid": "35751231-2961-4291-b64d-b69f337cea3f",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ReactJS Tutorial for Beginners : Fully Functional Responsive Dashboard | Firebase - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7aMo75r8kpg&list=PLkY85cDHOEpuXLeRr__ZLhBfSBl65HBRp",
+               "visit_count": 0
+            }, {
+               "date_added": "13356801379615778",
+               "date_last_used": "0",
+               "guid": "aee99575-bdf2-469d-80ce-9e13f8771285",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(57) 🔐 Register and Login Module + Admin Dashboard | NodeJS ReactJS & MySQL | Admin authentication. - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=N_W7kcFmHlg",
+               "visit_count": 0
+            }, {
+               "date_added": "13356801387369520",
+               "date_last_used": "0",
+               "guid": "66a5ff4d-7fa8-49fa-9d3f-77dd10ae45b5",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(57) Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jx5hdo50a2M",
+               "visit_count": 0
+            }, {
+               "date_added": "13356801390301849",
+               "date_last_used": "0",
+               "guid": "0e3e52fb-6eec-42b9-bb25-a6b47860c223",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(57) Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLEYW3pZS6IQ_a-iYAno4VsZonrikphq8L",
+               "visit_count": 0
+            }, {
+               "date_added": "13356801393105383",
+               "date_last_used": "0",
+               "guid": "1ea3ecba-71a1-4f17-a559-2ea19fd54b54",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(57) React Admin Dashboard With Html Css - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YBUwQMVK72U",
+               "visit_count": 0
+            }, {
+               "date_added": "13356913706867336",
+               "date_last_used": "0",
+               "guid": "90e75c38-bbbc-4e30-b43f-58f8ebe6781b",
+               "id": "24",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ChatGPT",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chat.openai.com/c/a1e4d9da-f5ef-4402-a7b5-fdb6934df6a3",
+               "visit_count": 0
+            }, {
+               "date_added": "13357106125977370",
+               "date_last_used": "0",
+               "guid": "801cd295-03fe-4d0d-be83-b6cb15e0cf23",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How To Create Complete Food Delivery App Using React JS Step By Step Tutorial 2024 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=9jRTo7ILxQc",
+               "visit_count": 0
+            }, {
+               "date_added": "13357106177240153",
+               "date_last_used": "0",
+               "guid": "bbfe7903-776b-45d8-ba43-a0bfd67099e6",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "JavaScript Full Course For Beginners With JavaScript Projects Tutorial And Notes 2024 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Pyv0tMm5i_w",
+               "visit_count": 0
+            }, {
+               "date_added": "13357106558056255",
+               "date_last_used": "0",
+               "guid": "8a84532e-5788-4c6d-844c-8a8ffe0c47d4",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Build a Fullstack Food Ordering App with Next.js 14 (react.js, mongo, tailwind) - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=nGoSP3MBV2E",
+               "visit_count": 0
+            }, {
+               "date_added": "13357107033163792",
+               "date_last_used": "0",
+               "guid": "dd0e88da-cb80-4075-b5d6-acb86555794b",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "React Native Full Stack App | React Native Project | Full Tutorial | Expo, HyGraph - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Zs-W12TpAeM",
+               "visit_count": 0
+            }, {
+               "date_added": "13357107071023355",
+               "date_last_used": "0",
+               "guid": "db7a883f-14a5-4987-868a-2ecad6405713",
+               "id": "29",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Build a REACT Admin Dashboard App using Material UI, ChartJS, and DataGrids in 2023 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=coRTRjCQ15U",
+               "visit_count": 0
+            }, {
+               "date_added": "13357107172728305",
+               "date_last_used": "0",
+               "guid": "3d5dc2ed-fd9d-414f-a7e3-0787f5de6544",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=K8YELRmUb5o",
+               "visit_count": 0
+            }, {
+               "date_added": "13357107872785138",
+               "date_last_used": "0",
+               "guid": "8548ac3b-2bb0-403e-b608-c9fd9e82104e",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=6omuUOZcWL0",
+               "visit_count": 0
+            }, {
+               "date_added": "13357107903452783",
+               "date_last_used": "0",
+               "guid": "2e8f10d4-e32e-4c14-9576-eacc2978950e",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Master No-Code Web Design with Framer - 4-hour Free Course - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=9nIwTjG2fdI",
+               "visit_count": 0
+            }, {
+               "children": [ {
+                  "date_added": "13357106639470442",
+                  "date_last_used": "0",
+                  "guid": "f5ec2860-b075-40b0-b014-264234337e7e",
+                  "id": "34",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Build a Portfolio Website With Next JS, Tailwind CSS & Framer Motion - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=qp0-L_M3Ad4",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205260553939",
+                  "date_last_used": "0",
+                  "guid": "2db51f0f-f212-4c74-98ea-3ef6fd220c45",
+                  "id": "35",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=0cPCMIuDk2I",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205263930849",
+                  "date_last_used": "0",
+                  "guid": "895e54b7-0ddb-42b5-9214-5bef26e67918",
+                  "id": "36",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Next.js 14 Admin Dashboard Tutorial | Fullstack Next.js 14 Project with Server Actions - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=cBg6xA5C60s",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205267703409",
+                  "date_last_used": "0",
+                  "guid": "769b51d1-c8e6-441a-9d46-52fa6be18c88",
+                  "id": "37",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "#04 Easily Create React ECommerce Admin Dashboard Ui | Learn React Js | React Js Project - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=roDMHxABmHU",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205271344704",
+                  "date_last_used": "0",
+                  "guid": "5e0467e3-8bc7-4497-95ad-b4a32c4540a5",
+                  "id": "38",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Master React and Node: Build Full Employee Management System (part 2) - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=6a4B7ev3vd0",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205277548577",
+                  "date_last_used": "0",
+                  "guid": "5484fc2d-3133-4434-83d5-22917c0ead40",
+                  "id": "39",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Master React & Node: Build a Full Employee Management System! (part 1) - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IKQQIYDfyPc",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205280966271",
+                  "date_last_used": "0",
+                  "guid": "ed89d548-b087-4f92-9f17-29cdb0bf6d70",
+                  "id": "40",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "React Admin Dashboard Tutorial | Responsive React Admin Panel UI Design Course - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=fq7k_gVV5x8",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13356801375823945",
+                  "date_last_used": "0",
+                  "guid": "aca90a34-3893-42d2-94d9-dc9fb3ade496",
+                  "id": "41",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=wYpCWwD1oz0",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205291522109",
+                  "date_last_used": "0",
+                  "guid": "4780457c-334b-4954-ba76-a055c665c691",
+                  "id": "42",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "React icons search results",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://react-icons.github.io/react-icons/search/#q=medal",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13357205294804635",
+                  "date_last_used": "0",
+                  "guid": "c2878844-b3bd-4c6e-acfb-b0ca9c5b8a9c",
+                  "id": "43",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "🪴 Create Responsive Admin Dashboard - React JS tutorial | Fully Responsive Project 2024. - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ALyO4vA7sKU&t=97s",
+                  "visit_count": 0
+               } ],
+               "date_added": "13357205256035124",
+               "date_last_used": "0",
+               "date_modified": "13357205294804635",
+               "guid": "2d7c4019-4735-4730-b540-b69c6f2fc54e",
+               "id": "33",
+               "name": "newreact",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13356801366009032",
+            "date_last_used": "0",
+            "date_modified": "13357107903452783",
+            "guid": "53919ea3-da02-4243-a714-a6c13776ef0a",
+            "id": "17",
+            "name": "react",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13318143251924144",
+               "date_last_used": "0",
+               "guid": "793cf3b2-3b19-4973-9253-0e09ad269f78",
+               "id": "45",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13383667206804399",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "ba3599bf-872f-4fcb-acff-5cfe036946fd",
+            "id": "44",
+            "name": "Acer",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13383667203782650",
+            "date_last_used": "0",
+            "guid": "08561d8b-5d36-4b8a-b22f-872c8df08e4b",
+            "id": "7",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13383667203782123",
+            "date_last_used": "0",
+            "guid": "b78454d4-d60f-4df4-8d3d-0a720814e7ae",
+            "id": "6",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         } ],
+         "date_added": "13383667203405804",
+         "date_last_used": "0",
+         "date_modified": "13383692873011296",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13383667203405807",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383667203405809",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBnRk/GUAQAAEgAqGEdhSitvQWJQVFlySHcxZ3BLMTl1MUE9PUgDoAYMEq4BCAsSqQEKHDBPYTlBWFBobUxILzhPbUdGcU9JTmI4NTBWVT0SJDU5N2YwZGRjLTc3YzQtNGEwZS05OTQwLTYwZGNhYzA1OWMzMhgAIAIoAjD7wseMzzI4p8L86ukvQPvCx4zPMkocNnNyeG5LZG8xLy9kcDB2WGpkUkhoSkZiVUJZPVogIh7//UdaZGhBVThhV0NDdjlubkd6Q1pDbWE2eWVWbz1lqVRDysI+AmAFEq4BCAwSqQEKHHZXbXJ1NnZ0R0EwL29GM2paY1ZiQjRJdVN5ND0SJGIwMzMyOTgyLTAxYjAtNGE4OC04M2UxLTMxYjM1OWY5OGNmYxgAIAIoAjD8wseMzzI485D86ukvQPzCx4zPMkocSWpGWWlzZzV3ZGYyL0Y5NEJXbFNQYWk1QWY0PVogIh7//jRDVUh2MEljTDdpamdhTjlvTjd4U3BwakxkTT1lwGiPwcI+AmAFErQBCA8SrwEKHGcyNHYzMTlGWGJRbjIxclMwS0hrT1hUTGJxaz0SJGU1ZmFkMGFjLTA0MWEtNGQ1OC05NWNkLTFhYjBjMjliOWFlORgAIAIoAjDDs8mAzzI4jMClic8xQP2+koDPMkocVGlDcTF0dFQ0ODgyYktkdy8wd3JiRytJRG1nPVomIiT/////AAAABFl3dmVrdUFlTzBZYUduZWV0dUptYlJuemozTT1lD//TyMI+AmAFEq4BCBsSqQEKHG9Mc3FFbndDc3FqOFpTbXhUQjRRcTNpcTZyST0SJDhhODQ1MzJlLTU3ODgtNGM2ZC04NDRjLThhOGZmZTBjNDdkNBgAIAAoADDaroSH7DE4mK+Eh+wxQJivhIfsMUocQktRMFhtVkt2QXFUSzJvZWxuUnFZTFU3dFlzPVogIh7/93h5MTYwR2ZWUjZtUzJJNlpuRTZ2SWlnTERFOD1lOPk5M8I+AmAFEq0BCCUSqAEKHDRHNVkzUTdMazF0QWplNW5hMUF1UHhhazBJST0SJDc2OWI1MWQxLWM4ZTYtNDQxYS05ZDQ2LTUyZmE2YmUxOGM4OBgAIAAoADDAjI227DE4jI2NtuwxQIyNjbbsMUocTGhzenBMT3FGQVVHZ05QL2VVOFlUcnVPeHJRPVofIh3VMDZUc2doR09KV3pwZlJkWlMzL0c5VnNweFFRPWU4+Tkzwj4CYAUSrQEIFBKoAQocZ1JtdU9oNW9ibFhPTWdMSEVieE16SUdqc3VrPRIkYWVlOTk1NzUtYmRmMi00NjlkLTgwY2UtOWUxM2Y4NzcxMjg1GAAgACgAMKXXwfXqMTj+18H16jFA/tfB9eoxShxDQUc4cE1OTmFGNEFqaUxndlJaSE1ISzB3bXc9Wh8iHfcyZFE3bkxSa2FnNmNLTlp6MGJhdmEwWXVVcHc9ZTj5OTPCPgJgBRKuAQgYEqkBChw5enJhQjJmOXdQOHp2MGlVa2FPbW5oZzljNXc9EiQ5MGU3NWMzOC1iYmJjLTRlMzAtYjQzZi01OGY4ZWJlNjc4MWIYACAAKAAwxualpL0yOPvXiavrMUD714mr6zFKHFFJeHVnTGh5ZFFWNE9HcDg4d3h1RXVtWG51az1aICIe/7xYdEU2WERoMUZhWmRnZG42SzVPQlNNbFRxNEk9ZZO9M7DCPgJgBRKtAQgrEqgBChwrU1FPOGJIWC9pT0xxOHhtY1U3MXRUV0NRMTA9EiRjMjg3ODg0NC1iM2JkLTRjNmUtYWNmYi1iMGNhOWM1YjhhOWMYACAAKAAw0t+OtuwxOKPgjrbsMUCj4I627DFKHEg4cjd3R1J5Q0Q0eHFrUHhHNmN5clhUWi9qYz1aHyId/2VjQ1NXYU9OR1lUd1ZLU1pya0hCUmdHU1JWZz1lOPk5M8I+AmAFEq8BCCASqgEKHDMwaW5pUUpJVGozL2hYeXdNUm1nZitPaUNEZz0SJDJlOGYxMGQ0LWUzMmUtNGMxNC05NTc2LWVhY2MyOTc4OTUwZRgAIAAoADCzvdaH7DE4673Wh+wxQOu91ofsMUoceFhtcDNoSmtQK2FEV09UdEN4dG85eHpWdkdrPVohIh///7BBUVdxc0h4TWIybkw4RWNJRTFTdFA0TmxIY2s9ZTj5OTPCPgJgBRKsAQgiEqcBChw3cnNnS2hKSXl1U3MxN1p4N25hUW0rajZPR2s9EiRmNWVjMjg2MC1iMDc1LTQwYjAtYjAxNC0yNjQyMzQzMzdlN2UYACAAKAAwzrWMtuwxOP2qiYfsMUD9qomH7DFKHFJRMHRxRzhKRDFLUGRoZ2JydEordDZ1VlNRTT1aHiIcOVN0OWF3U1dKWDZXUHdkc21DVW5tbkR3c2s4PWU4+Tkzwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMWQ0MTI0NWYtN2FjZC01NTNmLThlOWEtMjU2MjM2ODAwZjlmGAAgACgAMK3NmJO2Mjig3/rq6S9AoN/66ukvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEq4BCB4SqQEKHGdzZUJWTzhOSm9pQUVnM0l3YVVRM09SSFd5Yz0SJDNkNWRjMmVkLWZkOWQtNDE0Zi1hN2UzLTA3ODdmNWRlNjU0NBgAIAAoADDZ8KmH7DE4mvGph+wxQJrxqYfsMUocVlArY0doZ2tXc1JjeHI2OUN2L1F5Y214SnFVPVogIh7//0hMK0o2SDhTbytNMXdRelhyQUtjOWVWRXBFUT1lOPk5M8I+AmAFErUBCBASsAEKHGYxL0R5ZGFDalAwNGxMcitwaW9DQVZ0MlNacz0SJDgyNjNmZGY3LWQyNGEtNDQ4ZC04YWRlLWVjZDJjZDFjNDE0ORgAIAIoAjDFs8mAzzI4ta2Ji88xQP6+koDPMkocakdBZ3JyMEVYaXNVVGtacDVtY0JTK2p5YUQwPVonIiX/////AAAABKwza0ZJb01hdUEycytUbmp4VS9meUx4OXhYWGc9ZQ//08jCPgJgBRKuAQgZEqkBChxBdzhBR1N4R0dzZEhSdmkrN3JwYWhhOE9Hbms9EiQ4MDFjZDI5NS0wM2ZlLTRkMGQtYmU4My1iNmNiMTVlMGNmMjMYACAAKAAw8IXqhuwxOMyG6obsMUDMhuqG7DFKHDJXd0c2aXZ5WXJLd0NiaDV1LzZJTUdPVVdyVT1aICIe/943cjFqTVRlZjRIaTNSbmJuSDNWdTkzMUxEZ1U9ZTj5OTPCPgJgBRKuAQgcEqkBChx0YzNPZVZuaWs3ZFczUC9lT2NpRkxuOFJVdTg9EiRkZDBlODhkYS1jYjgwLTQwNzUtYjVkNi1hY2I4NjU1NTc5NGIYACAAKAAworShh+wxONm0oYfsMUDZtKGH7DFKHHhZd01uaC9zVWNoTlZiQVFEVS9YczFSSnZrST1aICIe//1hNklRUXBJK2c0bGRoSWhaRWtLaWZQYlVrckU9ZTj5OTPCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ4OTM3YzkzYi1kMmFjLTU1MzAtODYyYS01YzYyMDEwMWNmYzEYACAAKAAw/NjrnLAwOLLe+urpL0Cy3vrq6S9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrgEIChKpAQoceDhkQVZZSENEWW85eVd2MXdDcTJGa2lhaHd3PRIkMjAxY2ZmMDItYzM2OS00NDM1LTkzNGMtNTAwNTRlZTZlOWFkGAAgAigCMMSzyYDPMjjrwvzq6S9A+L6SgM8yShxtWHNLS0N1N2xDblIxL2lLWStDK0RKeDc5c0U9WiAiHv/7KzlRMEF4c1NFczhQWlVVdkI2TmhVWXNSU3hrPWUe46h/wj4CYAUSrgEIGhKpAQocMG41ek8zWmU5Nzc3MDZnY3N3WDR5MUZUYWpJPRIkYmJmZTc5MDMtNzc2Yi00NWQ4LWJhNDMtYTBiZmQ2NzA5OWU2GAAgACgAMNGP7YbsMTiakO2G7DFAmpDthuwxShw5NVhxOHlYQkZrWWFLNytKeDhoVnFlVGZsTlk9WiAiHv/veFN0VFZCZThxYThldGFuZ1lpTi9QcUdVWmxjPWU4+Tkzwj4CYAUStQEILBKwAQocWURjWkNNOTJLRDlXNG5kU3hXek9RWVF5SWpvPRIkYmEzNTk5YmYtODcyZi00ZmNiLWFjZmYtNWNmZTAzNjk0NmZkGAAgACgAMI3XqejKMjjn4qnoyjJA5+Kp6MoyShx1MHVqNTBETkZvMVhmWmQ1MGhmSEd4dUZVUUU9WiciJf////8AAAAE9UZIUnVUTGFiOG5nek1GM2xjV1I2WjlERjlJUT1lAAAAAMI+AmAAEq4BCB0SqQEKHFdiYVU3T1dvT0dyN2hFK0pHTlJaTFF3ZXBtRT0SJGRiN2E4ODNmLTE0YTUtNDk4Ny04NjhhLTJlY2FkNjQwNTcxMxgAIAAoADD91aOH7DE4udajh+wxQLnWo4fsMUocUDh3VWU3cFdQRDFSemx5V2dhN2JjYkxMTk1zPVogIh7//mM5VmFnM1NDZzlwZEt4Zm9aVENvZkpFZDU1VT1lOPk5M8I+AmAFErABCA4SqwEKHGpadWgwUkdEUHlnWEk5NjJGaVdqUGw3VTFhOD0SJDM0MDdlMzIyLTA5NjItNGM4YS04ZTNiLThmMTc5ZDdmZWJkZhgAIAAoADDvpMmGyDE4uqfJhsgxQLqnyYbIMUocdGdZbXdhcjN0WTNRV04wb0ZTQ2F5TWlTV1NBPVoiIiD////+alJncnVmWUYvMTNqYkt3S3NpZDAzSGhxektJPWUAAAAAwj4CYAUSrQEIKhKoAQocYnpyNVpPbTRHbklqQ01xZ1F4M2tQcGFFOVo0PRIkNDc4MDQ1N2MtMzM0Yi00OTU0LWJhNzYtYTA1NWM2NjVjNjkxGAAgACgAMJrGjrbsMTiux4627DFArseOtuwxShxiSGtKSHRUNkNQK3VnanBxTkFWWFFwZGR0Wkk9Wh8iHf5FVHE3R3Jvcjc3NkJOcEhROVpXNmVWRzllL1k9ZfuVyzvCPgJgBRK1AQgRErABChxoRlZDN1I5YklrdXFDcU01V2tMc2NaRzVselU9EiQ1MzkxOWVhMy1kYTAyLTQyNDMtYTcxNC1hNmMxMzc3NmVmMGEYACAAKAAwgu3A9eoxOIruwPXqMUCK7sD16jFKHG9NVXFUQnpzckZCc2I0Vkc3WmJDaFNsNnlCTT1aJyIl/////wAAAATrSnlTaUxGVnR6UmQ1Zm1pQVk4dXNnazV5V29zPWUAAAAAwj4CYAASrwEIIRKqAQoceDFOM1diQXQycDlRcjRQeFhoUzgyNTVKb3djPRIkMmQ3YzQwMTktNDczNS00NzMwLWI1NDAtYjY5YzZmMmZjNTRlGAAgACgAMM21jLbsMTiouIy27DFAqLiMtuwxShxGczMrLzlJeFdXYXo1VWpqcXQ5OU5VTFUvT2M9WiEiH///2HA1VnY4MnhuY1NsM3ozZFA0UVJQUUtWK3BzND1lAAAAAMI+AmAAEqwBCBISpwEKHEpPTEZRYW1DdVpkaXl5Z2FGS2NSRmRJM1NoUT0SJGRkYzZmMTZjLTNhMDUtNDg3My1hNzkzLTc2ZTRlN2FkNmIzNxgAIAAoADCD7cD16jE4w5TA9eoxQMOUwPXqMUocUTU1OVlwcGs1RXMzWXc1S1grY1pCajFtZ1lNPVoeIhx5MWFjbmlGMnhGaTFzS1FhM3o1TDFEbU1Edzg9ZTj5OTPCPgJgBRKtAQgTEqgBChxraGU1TUg4ODhqNGVVOFpkbVk2TURsRXlGU0E9EiQzNTc1MTIzMS0yOTYxLTQyOTEtYjY0ZC1iNjlmMzM3Y2VhM2YYACAAKAAw953B9eoxONaewfXqMUDWnsH16jFKHHc0L2NBUXJsYTVMQytGREplVWxTZkJ3K083UT1aHyId3jkrMUR0eGRvWmtUTkNiVmk2aWZjNXBnS0srYz1lOPk5M8I+AmAFEq0BCCQSqAEKHC9lcGFGT0hZbjZMWWdOSWVkd1JheUMrZVBJMD0SJDg5NWU1NGI3LTBkZGItNDJiNS05MjE0LTViZWYyNmU2NzkxOBgAIAAoADCu7oy27DE45u6MtuwxQObujLbsMUocejZCQ2p5dTdXc3ZteHpBc2N1cDVpWlZnbURRPVofIh2qL0xpTjE5Q2dmamVjT0RhV2Rja0l6YzZPWllzPWU4+Tkzwj4CYAUSrgEIHxKpAQocR29TN3Rod0tBVWF2N0FBRzR3eVM2OWh3UmtvPRIkODU0OGFjM2ItMmJiMC00MDNlLWI2MDgtYzlmZDllODIxMDRlGAAgACgAMKHR1IfsMTjn0dSH7DFA59HUh+wxShw4NzdvS2tEaXRGS3ZMVVZOK1ozalkyanNRdW89WiAiHv//YU55aWJjNXg5RExlNUJtMkZObTFVenBpVGJRPWU4+Tkzwj4CYAUSrQEIFRKoAQocQks4NitseVlIb2JkQXNCSWtINVF4djAxaXBBPRIkNjZhNWZmNGQtN2ZhOC00OWZhLTlkM2YtNzdkZDEwYWU0NWI1GAAgACgAMPqTwvXqMTjQlML16jFA0JTC9eoxShxMT0hiWjMyaFlGS3dQckt0MmdnRG5nRlk3N0k9Wh8iHf1MRzA3c2RFY2gvU0FkSlJmZG1QUzhTMzNvWk09ZTj5OTPCPgJgBRKtAQgXEqgBChxVT2Y2bVQyK3FLR3owN2dMZVpMOXh0Yi94eGs9EiQxZWEzZWNiYS03MWExLTRmMTctYTU1OS0yZWExOWZkNTRiNTQYACAAKAAw0sDC9eoxOLXBwvXqMUC1wcL16jFKHCt2dm1nNmNFTjBBMHNCdnRIVXRxMXdHdHRRRT1aHyId/zBoalUvQmtzN3JBN2gxakxYQ1U0enZuN0luUT1lOPk5M8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGJmZjk3OGUwLWVhYzUtNTNiZi05MzQ0LTJkZWE3ZmMwYjU3ZBgAIAAoADD82OucsDA4od766ukvQKHe+urpL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKuAQgNEqkBChxwcS9IMTg4RnZiWWJiRHlvY3hZWDZnWTRwa0E9EiRmNmY5OTYzZS1mNDI3LTRhZWQtYTFiMi1jMDVhYjc2N2RkMWIYACACKAIw/cLHjM8yOM6S/OrpL0D9wseMzzJKHElnN3lUTXp3RzBxU3lnQjhsOU9SL0Z5VjFhcz1aICIe//82NG9TUk1Mb2E5OU5LZ3hZNThWVTZ2QlVwclU9ZU82KLXCPgJgBRKtAQgWEqgBChxIQkE1U2tlNitrQkhFY1FiTUo5M25yWGF6cEk9EiQwZTNlNTJmYi02ZWVjLTQyYjktYmIyNS1hNmI0Nzg2MGMyMjMYACAAKAAwzarC9eoxOJ6rwvXqMUCeq8L16jFKHGwzUG5PMnRhTG9RYUFFVU1mRHg3QXc1NlFqaz1aHyId/nNCbmRXem55cko0U3o0VzFBUVZyc2pERGkxYz1lOPk5M8I+AmAFEq0BCCYSqAEKHE15Yk5YblAxVVhCeDNwdk41eUhadW5mYWZUbz0SJDVlMDQ2N2UzLThiYzctNDQ5Ny05NWFkLWI0YTMyYzQ1NDBhNRgAIAAoADDMqI227DE4t6mNtuwxQLepjbbsMUocczRaRE56c3VvSzJLVnNvRkxPTllzaklqTTVVPVofIh3qWjNRaStwUnBTM1dNZ2lLN3puYVBFQ0dNOHJJPWU4+Tkzwj4CYAUSrQEIKBKoAQocWUphdXd1NVdjS0FvdEM1ZDNBajJVVUlxOUtNPRIkZWQ4OWQ1NDgtYjA4Ny00ZjkyLTlmMTctMjljZGIwYmY2ZDcwGAAgACgAMPzzjbbsMTjg9I227DFA4PSNtuwxShwxY3J2eGU2Vmw0UkNUc0Jvc1duaU9PSGo2MmM9Wh8iHfpmdjdMTXorcXcrZ0h1TkNsUDltY0FrVW9haEU9ZTj5OTPCPgJgBRKtAQgnEqgBChx2UU9JRy9KdEJvMEs5MkRLZkEvVGtqL3liQXM9EiQ1NDg0ZmMyZC0zMTMzLTQ0MzQtODNkNS0yMjkxN2MwZWFkNDAYACAAKAAw+diNtuwxON3ZjbbsMUDd2Y227DFKHFFhTFN2L3JkSUtNZS9YMXNxMnB6MXhWRE1zRT1aHyId9UtraWlWMUlUTjZOU1BtaTZmYWluM0dkbFRxWT1lOPk5M8I+AmAFEqwBCCMSpwEKHFIrWTdJZzR6aDhUOFJjS0Rqb2hLNDNRYzlGND0SJDJkYjUxZjBmLWYyMTItNGM3NC05OGVhLTNlZjZmZDIyMGM0NRgAIAAoADCp1Iy27DE41tSMtuwxQNbUjLbsMUocSEt3UXplZ0g5bllSU0t0OXRiYzJJSC84ZUpFPVoeIhxUUGZmcmF3Ulg2bzdtWVVCbURjKzlFTWtHaXc9ZTj5OTPCPgJgBRKtAQgpEqgBChxwc0hQNm95QVhuOUh6Q21YellZSXZBTmZiQm89EiRhY2E5MGEzNC0zODkzLTQyZDItOTRkOS1kYzlmYjNhZGU0OTYYACAAKAAw9K6OtuwxOKS6wfXqMUCkusH16jFKHFJDVXJ1dG9KSjdtcFhTMGdlQ0xMS0w4WnJDND1aHyId/UVJaGZuUHFxSkhidVQ3RTY5dS8yckE3QVM4ND1lOPk5M8I+AmAFEqwBCC0SpwEKHHN0MEovNHNKOW9hNFdMYnYvOVZTQXMyK2pmYz0SJDc5M2NmM2IyLTNiMTktNDk3My05MjUzLTBlMDlhZDI2OWY3OBgAIAAoADCO16noyjI4iOOp6MoyQIjjqejKMkocUUphNnI2cG5sMVVnMVcyOFpqVnlQV04xajdNPVoeIhxlUE1CN29HNXdsSW8zaXoxVjE2WHVLSzdSTk09ZQAAAADCPgJgAjAAOAA=",
+   "version": 1
+}

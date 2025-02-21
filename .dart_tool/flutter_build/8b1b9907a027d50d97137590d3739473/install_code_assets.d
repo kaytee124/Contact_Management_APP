@@ -1,0 +1,1 @@
+ C:\\contact_management_app\\.dart_tool\\flutter_build\\8b1b9907a027d50d97137590d3739473\\native_assets.json: 
